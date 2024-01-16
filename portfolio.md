@@ -3,7 +3,7 @@
 
 Developed as the sole mobile developer on the team performing frontend and backend work. Involves multiple iOS SDKs (SwiftUI, Combine, PDFKit, AVKit, CoreData) as well as leveraging 3rd party packages (Fastlane, SwiftLint). Backend development was completed using C# and SQL Server.
 
-##### 🔨Technologies: SwiftUI, SQL Server, XCTests, 
+##### 🔨Technologies: SwiftUI, SQL Server, XCTests 
 ##### 🚀Platform: 📱iPad
 <p align="center">
 <a href="" target="_blank"><img src="images/Omni Departure.png" width="900" title="OAI"></a>
