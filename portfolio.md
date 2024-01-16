@@ -6,7 +6,8 @@ Developed as the sole mobile developer on the team performing frontend and backe
 ##### 🔨Technologies: SwiftUI, SQL Server, XCTests 
 ##### 🚀Platform: 📱iPad
 <p align="center">
-<a href="" target="_blank"><img src="images/Omni Departure.png" width="900" title="OAI"></a>
+<a href="" target="_blank"><img src="https://veeralsuthar.github.io/images/portfolio/Omni%20Departure.png" width="900" title="OAI">
+</a>
 </p>
 
 ## Amotions Inc. [In Production]
@@ -17,6 +18,9 @@ Developed as a team member of the mobile division, as well as worked on developi
 ##### 🔨Technologies: UIKit, SwiftUI, XCTests, Firebase
 ##### 🚀Platform: 📱iOS, iPad
 <p align="center">
+  <a href="" target="_blank">
+  <img src="https://veeralsuthar.github.io/images/portfolio/AmotionsInc.png" width="900" title="Amotions">
+  </a>
 <a href="" target="_blank"><img src="images/AmotionsInc.png" width="900" title="AmotionsInc"></a>
 </p>
 
@@ -28,7 +32,9 @@ Developed for the U.S. Department of Housing and Urban Development using Swift a
 ##### 🔨Technologies: UIKit, UI + Unit Tests
 ##### 🚀Platform: 📱iOS
 <p align="center">
-<a href="https://apps.apple.com/us/app/your-tribal-healthy-home/id1552775836" target="_blank"><img src="images/NA-Healthy-Homes.png" width="900" title="NA-Healthy-Homes"></a>
+    <a href="https://apps.apple.com/us/app/your-tribal-healthy-home/id1552775836" target="_blank">
+  <img src="https://veeralsuthar.github.io/images/portfolio/NA-Healthy-Homes.png" width="900" title="Healthy Homes">
+  </a>
 </p>
 
 ## DCA Calculator
@@ -39,7 +45,9 @@ Developed as a personal project.
 ##### 🔨Technologies: UIKit, UI + Unit Tests
 ##### 🚀Platform: 📱iOS
 <p align="center">
-<a target="_blank"><img src="images/DCA Calulator App.png" width="900" title="DCA-Calculator"></a>
+      <a href="" target="_blank">
+  <img src="https://veeralsuthar.github.io/images/portfolio/DCA%20Calulator%20App.png" width="900" title="DCA Calculator">
+  </a>
 </p>
 
 ## BaseMetrics
